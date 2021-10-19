@@ -1,7 +1,5 @@
-# Redux-Store-classroom
-
-Challenge:
-
+<h1><b>Redux Challenge Store classroom</b></h1>
+<hr>
 // Usando o Redux (pode usar Immer ou Não).
 // Crie uma store contendo os estados iniciais abaixo
 // Crie as seguintes ações:
